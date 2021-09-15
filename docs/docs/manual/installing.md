@@ -94,7 +94,7 @@ import TabItem from '@theme/TabItem';
 
 <TabItem value="win">
 
-Once you have downloaded the `.zip` file, extract it into a folder where you wish to store program files (such as `D:\Program Files\OpenRefine`).
+Once you have downloaded the `.zip` file from [the downloads page](https://openrefine.org/download.html), extract it into a folder where you wish to store program files (such as `D:\Program Files\OpenRefine`).
 
 You can right-click on `openrefine.exe` or `refine.bat` and pin one of those programs to your Start Menu or create shortcuts for easier access.
 
@@ -102,7 +102,7 @@ You can right-click on `openrefine.exe` or `refine.bat` and pin one of those pro
 
 <TabItem value="mac">
 
-Once you have downloaded the `.dmg` file, open it and drag the OpenRefine icon onto the Applications folder icon (just like you would normally install Mac applications).
+Once you have downloaded the `.dmg` file from [the downloads page](https://openrefine.org/download.html), open it and drag the OpenRefine icon onto the Applications folder icon (just like you would normally install Mac applications).
 
 </TabItem>
 
